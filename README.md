@@ -1,8 +1,8 @@
-# IvyPhotoshopDiffusion for Windows
+# AI-photoInpainter for Windows
 
 
 ##  About
-IvyPhotoshopDiffusion is a tool for generating AI image on Photoshop for Windows.
+AI-photoInpainter is a tool for generating AI image on Photoshop for Windows.
 The AI generating image process is done by [Stable Diffusion](https://github.com/CompVis/stable-diffusion) and [Automatic1111 Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
 
 https://user-images.githubusercontent.com/99020933/198564805-4e96151b-df74-4a61-995b-9ffef95fa28c.mp4
@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/99020933/198564805-4e96151b-df74-4a61-
 
 ## Download
 
-latest version of [IvyPhotoshopDiffusion](https://github.com/Invary/IvyPhotoshopDiffusion/releases)
+latest version of [AI-photoInpainter](https://github.com/Invary/AI-photoInpainter/releases)
 
 
 <br />
@@ -44,19 +44,19 @@ latest version of [IvyPhotoshopDiffusion](https://github.com/Invary/IvyPhotoshop
 4. Set command line arguments **`--api`** for **`Automatic1111`** <br />
      Edit **`webui-user.bat`**, **`set COMMANDLINE_ARGS=`** to **`set COMMANDLINE_ARGS=--api`**
 ###
-5. [Download](https://github.com/Invary/IvyPhotoshopDiffusion/releases) latest version of IvyPhotoshopDiffusion
+5. [Download](https://github.com/Invary/AI-photoInpainter/releases) latest version of AI-photoInpainter
 6. Extract it to installation folder
 7. At windows 10/11, right-click executable file, and select menu item **`properties`** to **`unlock`** security warning
 ###
 8. Start **`Automatic1111`**
 9. Start **`Adobe Photoshop`**
-10. Start **`IvyPhotoshopDiffusion.exe`** in the installation folder.
+10. Start **`AI-photoInpainter.exe`** in the installation folder.
 
 <br />
 
 ##  Documents
 
-see [Documents](https://github.com/Invary/IvyPhotoshopDiffusion/tree/main/doc) page.
+see [Documents](https://github.com/Invary/AI-photoInpainter/tree/main/doc) page.
 
 <br />
 
@@ -68,7 +68,7 @@ see [Documents](https://github.com/Invary/IvyPhotoshopDiffusion/tree/main/doc) p
 - Do not collect telemetry information.
 - If online information is needed, get it from github repositories whenever possible.
 
-*This policy only applies to IvyPhotoshopDiffusion, and not to other libraries or software such as **`Adobe Photoshop`** or **`Automatic1111`**
+*This policy only applies to AI-photoInpainter, and not to other libraries or software such as **`Adobe Photoshop`** or **`Automatic1111`**
 
 <br />
 
@@ -139,27 +139,10 @@ If you have any idea or suggestion, please add a github issue.
 
 <br />
 
-## ⭐ Price
-
-FREE of charge. <br /> 
-If you would like to donate, please send me a ko-fi or crypto. It's a great encouragement!
-
-[![ko-fi](https://raw.githubusercontent.com/Invary/IvyMediaDownloader/main/img/donation_kofi.png)](https://ko-fi.com/E1E7AC6QH)
-
-- Address: 0xCbd4355d13CEA25D87F324E9f35A075adce6507c<br>
- -- Binance Smart Chain (BNB, USDT, BUSD etc.)<br>
- -- Polygon network (MATIC, USDC etc.)<br>
- -- Ethereum network (ETH)<br>
-
-- Address: 1FvzxYriyNDdeA12eaUGXTGSJxkzpQdxPd<br>
- -- Bitcoin (BTC)<br>
-
-<br />
-
 
 
 ##  Thanks
-IvyPhotoshopDiffusion uses a some of tools and libraries. Thank you for these projects!
+AI-photoInpainter uses a some of tools and libraries. Thank you for these projects!
 
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 - [Automatic1111 Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
@@ -169,7 +152,7 @@ IvyPhotoshopDiffusion uses a some of tools and libraries. Thank you for these pr
 <br />
 <br />
 
-#### Copyright (c) Invary
+#### Copyright (c) David
 
 
 

@@ -44,22 +44,12 @@ latest version of [AI-photoInpainter](https://github.com/Invary/AI-photoInpainte
 4. Set command line arguments **`--api`** for **`Automatic1111`** <br />
      Edit **`webui-user.bat`**, **`set COMMANDLINE_ARGS=`** to **`set COMMANDLINE_ARGS=--api`**
 ###
-5. [Download](https://github.com/Invary/AI-photoInpainter/releases) latest version of AI-photoInpainter
-6. Extract it to installation folder
-7. At windows 10/11, right-click executable file, and select menu item **`properties`** to **`unlock`** security warning
+5. Extract it to installation folder
+6. At windows 10/11, right-click executable file, and select menu item **`properties`** to **`unlock`** security warning
 ###
-8. Start **`Automatic1111`**
-9. Start **`Adobe Photoshop`**
-10. Start **`AI-photoInpainter.exe`** in the installation folder.
-
-<br />
-
-##  Documents
-
-see [Documents](https://github.com/Invary/AI-photoInpainter/tree/main/doc) page.
-
-<br />
-
+7. Start **`Automatic1111`**
+8. Start **`Adobe Photoshop`**
+9. Start **`AI-photoInpainter.exe`** in the installation folder.
 
 ##  Privacy policy
 

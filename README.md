@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/99020933/198564805-4e96151b-df74-4a61-
 
 <br />
 
-## ⚡ Featurees
+## ⚡ Features
 
 * Infinite outpainting on Photoshop
 * Inpainting on Photoshop

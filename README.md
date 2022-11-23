@@ -1,10 +1,12 @@
-# AI-photoInpainter for Windows
+# AI-photopainter for Windows
 
 
 ##  About
-AI-photoInpainter is a tool for generating AI image on Photoshop for Windows.
+AI-photopainter is a tool for generating AI image on Photoshop for Windows.
+This app interacts with photoshop and stable-diffusion AI tool to inpaint or outpaint various photos.
+This app was written with c# and the AI backend was written python.
 The AI generating image process is done by [Stable Diffusion](https://github.com/CompVis/stable-diffusion) and [Automatic1111 Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
-
+You can view the outpainting function in below:
 https://user-images.githubusercontent.com/99020933/198564805-4e96151b-df74-4a61-995b-9ffef95fa28c.mp4
 
 
@@ -15,16 +17,6 @@ https://user-images.githubusercontent.com/99020933/198564805-4e96151b-df74-4a61-
 * Infinite outpainting on Photoshop
 * Inpainting on Photoshop
 * Inpainting/outpainting with mask
-
-
-<br />
-
-## Download
-
-latest version of [AI-photoInpainter](https://github.com/Invary/AI-photoInpainter/releases)
-
-
-<br />
 
 ## ️ Requirements
 
@@ -49,7 +41,7 @@ latest version of [AI-photoInpainter](https://github.com/Invary/AI-photoInpainte
 ###
 7. Start **`Automatic1111`**
 8. Start **`Adobe Photoshop`**
-9. Start **`AI-photoInpainter.exe`** in the installation folder.
+9. Start **`AI-photopainter.exe`** in the installation folder.
 
 ##  Privacy policy
 
@@ -58,7 +50,7 @@ latest version of [AI-photoInpainter](https://github.com/Invary/AI-photoInpainte
 - Do not collect telemetry information.
 - If online information is needed, get it from github repositories whenever possible.
 
-*This policy only applies to AI-photoInpainter, and not to other libraries or software such as **`Adobe Photoshop`** or **`Automatic1111`**
+*This policy only applies to AI-photopainter, and not to other libraries or software such as **`Adobe Photoshop`** or **`Automatic1111`**
 
 <br />
 
@@ -132,7 +124,7 @@ If you have any idea or suggestion, please add a github issue.
 
 
 ##  Thanks
-AI-photoInpainter uses a some of tools and libraries. Thank you for these projects!
+AI-photopainter uses a some of tools and libraries. Thank you for these projects!
 
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 - [Automatic1111 Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
